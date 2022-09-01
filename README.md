@@ -1,8 +1,8 @@
 # chidike-JS-calculator
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
-💻 This is a footer of an e-commerce website 
-🌍 Website: https://lacegiovanni17.github.io/Chidike-e-commerce-footer-webisite/ 
+💻 This is a calculator made with JS
+🌍 Website: https://lacegiovanni17.github.io/chidike-JS-calculator/ 
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
