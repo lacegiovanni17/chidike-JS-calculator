@@ -4,7 +4,7 @@
 * 😎 I’m a web developer 
 * 💻 This is a calculator made with made with HTML, CSS and JS.
 * 🌍 Website:  https://lacegiovanni17.github.io/chidike-JS-calculator/
-* 🌍 Website:  dk-js-calculator.netlify.app
+* 🌍 Website:  https://dk-js-calculator.netlify.app/
 * 💞️ I’m looking to collaborate on JS projects 
 * 📫 How to reach me chidike.henry@gmail.com
 
